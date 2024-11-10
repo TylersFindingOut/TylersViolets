@@ -1,4 +1,4 @@
 User-agent: * 
-Disallow: https://ari.se.net/config/*
+Disallow: https://tylersviolets.com/config/*
 
-Sitemap: https://ari.se.net/sitemap.xml
+Sitemap: https://tylersviolets.com/sitemap.xml
