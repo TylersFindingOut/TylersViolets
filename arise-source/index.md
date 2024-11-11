@@ -34,5 +34,3 @@ This is the area I'm using to test links to other pages and such while I work on
 
 This should link to a new page, [ANOTHERPAGE](posts) on this website.
 
-Test Push
-
