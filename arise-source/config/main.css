@@ -10,7 +10,7 @@ body{
         max-width:650px;
         line-height:1.6;
         font-size:18px;
-        color:#65f85a;
+        color:#7F00FF;
         background-color:#121619;
         padding:0 10px;
 }
@@ -39,7 +39,7 @@ code {
 
         padding-top:1px;
         padding-bottom:1px;
-        color:#65f85a;
+        color:#7F00FF;
 		font-family:monospace;
 }
 
@@ -53,7 +53,7 @@ pre {
 }
 
 blockquote {
-        border-left:1px solid #65f85a;
+        border-left:1px solid #7F00FF;
         display:block;
         margin-top: 1em;
         margin-bottom: 1em;
@@ -65,14 +65,14 @@ blockquote {
 }
 
 hr {
-        color:#65f85a;
+        color:#7F00FF;
         margin-left: auto;
         margin-right: auto;
         max-width: 300px;
 }
 
 #endline { /* Special kind of <hr> for spacing out footnotes from the rest of a post */
-        color:#65f85a;               
+        color:#7F00FF;               
         margin-left: auto;              
         margin-right: auto;
         max-width: 300px;
@@ -126,19 +126,19 @@ h2,h3{
 /* Navbar styling. */
 .topbar {
         padding-right:10px;
-        border-top:1px solid #65f85a;
-        border-bottom:1px solid #65f85a;
+        border-top:1px solid #7F00FF;
+        border-bottom:1px solid #7F00FF;
         margin-bottom:20px;
         text-align:center;
 }
 .topbar a {
-color:#65f85a;
+color:#7F00FF;
 text-decoration:none;
 }
 
 /* Site footer styling */
 .footer {
-        border-top:2px solid #65f85a;
+        border-top:2px solid #7F00FF;
         font-size:12px;
         margin-top:120px;
         text-align:center;
@@ -153,7 +153,7 @@ text-decoration:none;
 /* Arise Index Style */
 .arise-toc-td {
   border-width: 1px;
-  border-color: #65f85a;
+  border-color: #7F00FF;
   border-top-style: solid;
   text-align: center;
   padding-right: 10px;
